@@ -1,0 +1,8 @@
+scholarship_system.py:44:80: E501 line too long (81 > 79 characters)
+scholarship_system.py:47:80: E501 line too long (87 > 79 characters)
+scholarship_system.py:55:80: E501 line too long (91 > 79 characters)
+scholarship_system.py:76:80: E501 line too long (83 > 79 characters)
+scholarship_system.py:103:80: E501 line too long (84 > 79 characters)
+scholarship_system.py:106:80: E501 line too long (84 > 79 characters)
+scholarship_system.py:109:80: E501 line too long (82 > 79 characters)
+scholarship_system.py:118:80: E501 line too long (84 > 79 characters)
